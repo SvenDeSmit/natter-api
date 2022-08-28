@@ -1,0 +1,2 @@
+CERTs generated with Protecle
+all passwords = changeit
